@@ -1,5 +1,5 @@
-import logo from "../assets/images/logo.png";
-import profile from "../assets/images/profileImg.png";
+import logo from "../assets/images/pp.jpg";
+import profile from "../assets/images/pp2.jpg";
 import project_1 from "../assets/images/project_1.png";
 import project_2 from "../assets/images/project_2.png";
 import project_3 from "../assets/images/project_3.png";
