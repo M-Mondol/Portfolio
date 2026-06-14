@@ -18,7 +18,7 @@ const LeftSide = () => {
           WELCOME TO MY WORLD
         </h4>
         <h1 className="text-2xl sm:text-5xl font-bold flex items-center gap-1">
-          Hi,I'm <span className="text-designColor font-bold">Masum Ahmed</span>
+          Hi,I'm <span className="text-designColor font-bold">Md Marfi Hasan Mondal</span>
         </h1>
         <h2 className="text-2xl sm:text-4xl font-bold">
           a <span className="text-2xl sm:text-4xl">{text}</span>
